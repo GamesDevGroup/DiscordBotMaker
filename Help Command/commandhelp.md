@@ -5,6 +5,11 @@
   "_id": "QdDKC",
   "actions": [
     {
+      "comment": "DBM-GDG - helpp Embed ",
+      "color": "#ff8000",
+      "name": "Comment"
+    },
+    {
       "condition": "0",
       "comparison": "1",
       "value": "1",
