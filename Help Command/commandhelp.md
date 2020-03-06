@@ -5,7 +5,7 @@
   "_id": "QdDKC",
   "actions": [
     {
-      "comment": "DBM-GDG - helpp Embed ",
+      "comment": "DBM-GDG - help Embed ",
       "color": "#ff8000",
       "name": "Comment"
     },
