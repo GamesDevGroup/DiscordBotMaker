@@ -5,6 +5,11 @@
   "_id": "yqMNU",
   "actions": [
     {
+      "comment": "DBM-GDG - Announce Command ",
+      "color": "#ff8000",
+      "name": "Comment"
+    },
+    {
       "storage": "0",
       "varName": "",
       "name": "Delete Message"
